@@ -2,7 +2,7 @@ package com.teluskodivan.teluskodivan.model;
 
 import lombok.Data;
 
-@Data
+
 public class QuestionWrapper {
 
     private Integer id;
